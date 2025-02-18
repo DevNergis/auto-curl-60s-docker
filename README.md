@@ -1,0 +1,1 @@
+# auto-curl-60s-docker
